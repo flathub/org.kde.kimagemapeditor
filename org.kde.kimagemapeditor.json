@@ -21,18 +21,14 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.3/src/kimagemapeditor-23.04.3.tar.xz",
-                    "sha256": "ac616a260e809a37e764ab9f205f81337ab790794ae0db77e292c2f84e078315",
+                    "url": "https://download.kde.org/stable/release-service/23.08.0/src/kimagemapeditor-23.08.0.tar.xz",
+                    "sha256": "98a15260b415067e11d0940184b230ba60b19cf38d2cd6d754d1c2c7d8ba47d2",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kimagemapeditor-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "patch",
-                    "path": "oars.patch"
                 }
             ]
         }
