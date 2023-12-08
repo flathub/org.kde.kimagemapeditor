@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.3/src/kimagemapeditor-23.08.3.tar.xz",
-                    "sha256": "77108d0eea3dbde8b26f1b72c8f21a4fcbeabd577a6bd0789c8a181360690d8d",
+                    "url": "https://download.kde.org/stable/release-service/23.08.4/src/kimagemapeditor-23.08.4.tar.xz",
+                    "sha256": "3c38face6bccfddaa36bb9a98df34b9472962200d0001def6073e77c24657eb0",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
