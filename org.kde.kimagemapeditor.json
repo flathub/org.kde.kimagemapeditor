@@ -8,10 +8,10 @@
     "command": "kimagemapeditor",
     "rename-icon": "kimagemapeditor",
     "finish-args": [
-        "--share=ipc",
         "--device=dri",
-        "--socket=wayland",
+        "--share=ipc",
         "--socket=fallback-x11",
+        "--socket=wayland",
         "--system-talk-name=org.freedesktop.UDisks2"
     ],
     "modules": [
