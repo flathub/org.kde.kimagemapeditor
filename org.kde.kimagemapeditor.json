@@ -1,9 +1,9 @@
 {
     "id": "org.kde.kimagemapeditor",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-23.08",
+    "runtime-version": "6.7",
     "base": "io.qt.qtwebengine.BaseApp",
-    "base-version": "5.15-23.08",
+    "base-version": "6.7",
     "sdk": "org.kde.Sdk",
     "command": "kimagemapeditor",
     "rename-icon": "kimagemapeditor",
@@ -21,8 +21,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/24.05.2/src/kimagemapeditor-24.05.2.tar.xz",
-                    "sha256": "01719f055e460754b7fab56da8f72c148ad45e0e14e2ffa2cdf20a440e993956",
+                    "url": "https://download.kde.org/stable/release-service/24.08.0/src/kimagemapeditor-24.08.0.tar.xz",
+                    "sha256": "f2322c0134207f971bad78c5f93833d16dee577e9ce716ed707c7e8ca7e023f9",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
