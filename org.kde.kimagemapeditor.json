@@ -14,6 +14,18 @@
         "--socket=wayland",
         "--system-talk-name=org.freedesktop.UDisks2"
     ],
+     "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/lib/pkgconfig",
+        "/share/doc",
+        "/share/qlogging-categories6",
+        "*.la",
+        "*.a"
+    ],
+    "cleanup-commands": [
+        "/app/cleanup-BaseApp.sh"
+    ],
     "modules": [
         {
             "name": "kimagemapeditor",
