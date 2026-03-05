@@ -14,7 +14,7 @@
         "--socket=wayland",
         "--system-talk-name=org.freedesktop.UDisks2"
     ],
-     "cleanup": [
+    "cleanup": [
         "/include",
         "/lib/cmake",
         "/lib/pkgconfig",
@@ -33,8 +33,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.2/src/kimagemapeditor-25.12.2.tar.xz",
-                    "sha256": "eb10a72de40b04cd00f7ab7c7525b12bede2dbbe485f0a2ca3ec33957065964f",
+                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kimagemapeditor-25.12.3.tar.xz",
+                    "sha256": "313786289a31324b79bd94e94c2a59b51b325edd6f3f63d69c84709ca3addf66",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
